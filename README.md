@@ -4,7 +4,7 @@ Before following and using this script, go through this [video](https://www.yout
 
 The below mentioned 3 commnds will initiate the installation process of dokku and Forem. So before using this script, I would suggest you to go through the above mentioned video.
 ```
-git clone https://raw.githubusercontent.com/khacnam/t2d/main/t2d.sh
+wget https://raw.githubusercontent.com/khacnam/t2d/main/t2d.sh
 chmod +x t2d.sh
 ./t2d.sh
 ```
